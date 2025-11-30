@@ -1,4 +1,4 @@
-# Heineken Observability Kit (New Relic + Python)
+# Observability Kit (New Relic + Python)
 
 Kit de scripts en Python estilo SRE para enviar **métricas, logs y traces** a New Relic
 para entornos de Heineken (plantas, sites, SAP, APIs, etc.).
